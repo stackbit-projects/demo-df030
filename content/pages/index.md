@@ -77,7 +77,7 @@ sections:
       - author: Rebecca Wilson
         avatar: images/desmond-eagle.jpg
         avatar_alt: Desmond Eagle's photo
-        position: ',Chief Curator and VP, Advisory at Saatchi Art'
+        position: 'Chief Curator and VP, Advisory at Saatchi Art'
         content: |-
           “Becky was a pleasure to work with! She is a talented writer and very 
           reliable. She is great at simplifying complex issues and delivering 
