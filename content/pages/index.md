@@ -71,7 +71,7 @@ sections:
   - type: testimonials_section
     section_id: testimonials
     title: Testimonials
-    subtitle: What our Clients say
+    subtitle: What clients are saying
     col_number: three
     testimonials:
       - author: Rebecca Wilson
