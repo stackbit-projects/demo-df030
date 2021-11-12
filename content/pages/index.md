@@ -86,7 +86,7 @@ sections:
       - author: Mallory Dunn
         avatar: images/dianne-ameter.jpg
         avatar_alt: Dianne Ameter's photo
-        position: 'CTO, Another Company'
+        position: Owner/Designer at SmartGlamour
         content: >-
           “I highly recommend Becky for SEO writing! I have very specific
           branding
