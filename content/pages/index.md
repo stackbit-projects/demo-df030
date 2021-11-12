@@ -83,7 +83,7 @@ sections:
           clear and concise copy. I recommend Becky for any copywriting project 
           that you may need done professionally and in a timely manner.”
         avatar: /images/Screen Shot 2021-11-11 at 8.47.11 PM.png
-      - author: Dianne Ameter
+      - author: Mallory Dunn
         avatar: images/dianne-ameter.jpg
         avatar_alt: Dianne Ameter's photo
         position: 'CTO, Another Company'
