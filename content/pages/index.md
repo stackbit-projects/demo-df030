@@ -83,10 +83,6 @@ sections:
           reliable. She is great at simplifying complex issues and delivering 
           clear and concise copy. I recommend Becky for any copywriting project 
           that you may need done professionally and in a timely manner.”
-      - author: lorem-ipsum
-        position: lorem-ipsum
-        avatar_alt: lorem-ipsum
-        content: lorem-ipsum
       - author: Dianne Ameter
         avatar: images/dianne-ameter.jpg
         avatar_alt: Dianne Ameter's photo
