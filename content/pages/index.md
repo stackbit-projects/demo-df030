@@ -75,7 +75,6 @@ sections:
     col_number: three
     testimonials:
       - author: Rebecca Wilson
-        avatar: images/desmond-eagle.jpg
         avatar_alt: Desmond Eagle's photo
         position: 'Chief Curator and VP, Advisory at Saatchi Art'
         content: |-
