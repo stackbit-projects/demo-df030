@@ -88,8 +88,12 @@ sections:
         avatar_alt: Dianne Ameter's photo
         position: 'CTO, Another Company'
         content: >-
-          Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
-          nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
+          “I highly recommend Becky for SEO writing! I have very specific
+          branding
+           and messaging which she picked up on very quickly. She was efficient, 
+          organized, and receptive to my feedback. I will definitely be hiring
+          her
+           again in the future for any SEO writing needs!”
   - type: cta_section
     section_id: cta
     title: Let’s Work Together!
